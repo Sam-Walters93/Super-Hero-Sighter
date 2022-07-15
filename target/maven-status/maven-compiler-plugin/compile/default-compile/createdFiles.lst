@@ -1,0 +1,13 @@
+com\sg\superherosighter\dto\Org.class
+com\sg\superherosighter\controller\heroController.class
+com\sg\superherosighter\dao\heroDao.class
+com\sg\superherosighter\dao\orgDbDao$OrgMapper.class
+com\sg\superherosighter\dao\heroDbDao$HeroMapper.class
+com\sg\superherosighter\App.class
+com\sg\superherosighter\dao\orgDao.class
+com\sg\superherosighter\dto\Sighting.class
+com\sg\superherosighter\dto\Hero.class
+com\sg\superherosighter\service\superHeroService.class
+com\sg\superherosighter\dao\heroDbDao.class
+com\sg\superherosighter\dao\orgDbDao.class
+com\sg\superherosighter\dao\sightingDao.class
